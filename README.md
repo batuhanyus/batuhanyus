@@ -1,2 +1,2 @@
-![](https://github.com/batuhanyus/ProfileStats/tree/master/generated/overview.svg)
-![](https://github.com/batuhanyus/ProfileStats/tree/master/generated/languages.svg)
+![](https://github.com/batuhanyus/ProfileStats/blob/master/generated/overview.svg)
+![](https://github.com/batuhanyus/ProfileStats/blob/master/generated/languages.svg)
