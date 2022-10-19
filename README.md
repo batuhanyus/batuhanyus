@@ -1,11 +1,6 @@
-![](https://github.com/batuhanyus/ProfileStats/blob/master/generated/overview.svg)
-![](https://github.com/batuhanyus/ProfileStats/blob/master/generated/languages.svg)
-
-
 <h1 align="center">Hello!</h1>
 
 <p align="center">
-<!--   my-header-img -->
 <img src="https://github.com/batuhanyus/batuhanyus/blob/main/images/myGif.gif" />
 </p>
 
@@ -16,5 +11,8 @@
 
 ![](https://github.com/batuhanyus/ProfileStats/blob/output/github-contribution-grid-snake.svg)
 
-
+<p align="center">
+<img src="https://github.com/batuhanyus/ProfileStats/blob/master/generated/overview.svg" />
+<img src="https://github.com/batuhanyus/ProfileStats/blob/master/generated/languages.svg" />
+</p>
 
