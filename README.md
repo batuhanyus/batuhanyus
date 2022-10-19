@@ -6,7 +6,7 @@
 
 <p align="center">
 <!--   my-header-img -->
-![](./images/myGif.gif)
+<img src="https://github.com/batuhanyus/batuhanyus/blob/main/images/myGif.gif" />
 </p>
 
 <!--   my-ticker -->    
