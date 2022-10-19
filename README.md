@@ -36,7 +36,7 @@
 
 <!--   grid-snake -->
 
-![](https://github.com/batuhanyus/ProfileStats/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/batuhanyus/batuhanyus/blob/output/github-contribution-grid-snake.svg)
 
 
 
