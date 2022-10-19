@@ -9,7 +9,9 @@
 
 <!--   grid-snake -->
 
-![](https://github.com/batuhanyus/ProfileStats/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/batuhanyus/ProfileStats/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
 <img src="https://github.com/batuhanyus/ProfileStats/blob/master/generated/overview.svg" />
