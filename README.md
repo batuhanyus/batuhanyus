@@ -5,7 +5,7 @@
 <h1 align="center">Hello!</h1>
 
 <!--   my-header-img -->
-![](./myGif.gif)
+![](./images/myGif.gif)
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Başak+Dilara+Çevik;+Welcome+to+My+Profile!;AI+enthusiast+from+Turkey;SistersLab+Women+in+Tech+Academy+participant)](https://git.io/typing-svg)
